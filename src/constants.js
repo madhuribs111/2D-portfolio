@@ -11,7 +11,7 @@ export const dialogueData = {
   bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
   resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1AHvnXTgzXJ8iU5GZd8cyYZMM9bd4Yc34/view?usp=sharing" target="_blank">Check it out?</a>
   Contact me at madhuribs111@gmail.com if you have any interesting job opportunities!`,
-  personal_projects: `1. This portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript. 2. Javascript based <a href="https://github.com/madhuribs111/slot-machine" target="_blank">slot machine</a> 3.<a href="https://github.com/madhuribs111/face-recognition" target="_blank">Face recognition system</a> and <a href = "https://github.com/madhuribs111/hand-gesture-presentation" target="_blank"> Hand gesture presentation</a> using Python.
+  personal_projects: `1. This portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript. 2. Javascript based <a href="https://github.com/madhuribs111/slot-machine" target="_blank">slot machine</a> 3.<a href="https://github.com/madhuribs111/Chat-App" target="_blank">Chat App</a> and <a href = "https://github.com/madhuribs111/hand-gesture-presentation" target="_blank"> Hand gesture presentation</a> using Python.
   `,
   library: `There are a lot of programming books and computer science notes on my shelves. I like writing and making notes of whatever I learn.`,
   exit: `If you want to exit Madhuri's portfolio, just close the tab.`,
