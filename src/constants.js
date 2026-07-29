@@ -1,18 +1,17 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  pc: `This is my PC. I'm currently working on expanding my technical horizons learning spring boot. Feel free to check my <a href="https://github.com/madhuribs111" target="_blank">Github</a> contributions during my 7 months time as a MERN stack intern at Codevice Solution Pvt. Ltd and my projects.
-    I'm also passionate about AI ML, hence taking a course on ML specialization offered by Stanford university & DeepLearning.AI, projects on ML are soon to be updated!. Check out my <a href="https://drive.google.com/file/d/1pzK0dGdhaTXoNWzfkdI_ULqdQh2IkYG5/view" target="_blank">Supervised Learning certification</a>.
+  pc: `This is my PC. I'm currently working on expanding my technical horizons.
+    I'm also passionate about AI ML, certified ML specialization offered by Stanford university & DeepLearning.AI, projects on ML are soon to be updated!. Check out my <a href="https://drive.google.com/file/d/1pzK0dGdhaTXoNWzfkdI_ULqdQh2IkYG5/view" target="_blank">Supervised Learning certification</a>.
    `,
-  "cs-degree": `I'm pursuing Computer Science and Engineering, currently in my final year with a CGPA of 8.31 (till 7th sem). Reserved a spot on the wall for my degree.`,
+  "cs-degree": `I'm a Computer Science and Engineering grad, with a CGPA of 8.48.`,
   "sofa-table": `That's my sofa. I like to relax here and practice DSA, and stay active on socials. Check out my <a href= "https://x.com/madhuri_bs111" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/madhuribs/" target="_blank">LinkedIn</a>`,
   tv: `That's my TV. I watch a lot of tech youtubers to stay updated in the tech field, learnt from the best like :
    <a href="https://www.youtube.com/@techwithtim" target="_blank">techwithtim</a>, <a href="https://www.youtube.com/@WebDevSimplified" target="_blank">Web Dev Simplified</a>!`,
-  bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-  resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1bH8xGRYjoewK6kuuARcAMtmynUdyeKxl/view?usp=sharing" target="_blank">Check it out?</a>
-  Contact me at madhuribs111@gmail.com if you have any interesting job opportunities!`,
-  personal_projects: `1. This portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript. 2. Javascript based <a href="https://github.com/madhuribs111/slot-machine" target="_blank">slot machine</a> 3.<a href="https://github.com/madhuribs111/Chat-App" target="_blank">Chat App</a> and <a href = "https://github.com/madhuribs111/hand-gesture-presentation" target="_blank"> Hand gesture presentation</a> using Python.
-  `,
+  bed: `This where I sleep. Ideas like how to fix that bug I can't get my head off of, comes when I'm lying on my bed, haha`,
+  resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/18fE7eehiMsN-0W-OR1pONaIlcyIQVhiD/view?usp=sharing" target="_blank">Check it out</a>
+  Contact me at madhuribs111@gmail.com if you wanna connect, to a possibility of working together!`,
+  
   library: `There are a lot of programming books and computer science notes on my shelves. I like writing and making notes of whatever I learn.`,
   exit: `If you want to exit Madhuri's portfolio, just close the tab.`,
 };
